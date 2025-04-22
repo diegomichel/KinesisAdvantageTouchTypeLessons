@@ -1,18 +1,18 @@
-1734 All Drive <TAB> 3907 Bored Street <TAB> 3200 Cold Place
+1734 All Drive \t 3907 Bored Street \t 3200 Cold Place
 
-<TAB> 5821 Daring Lane <TAB> 5487 Eagle Nest <TAB> 4509 Friendly; 
+\t 5821 Daring Lane \t 5487 Eagle Nest \t 4509 Friendly; 
 
-Canyon <TAB> 2753 Game Boulevard <TAB> 6732 House Property <TAB> 87
-12 Inside Lane <TAB> 7613 James Town <TAB> 8459 Knowledge Bay;
+Canyon \t 2753 Game Boulevard \t 6732 House Property \t 87
+12 Inside Lane \t 7613 James Town \t 8459 Knowledge Bay;
 
-<TAB> 9494 Laundry Room <TAB> 6721 Mocha Java <TAB> 6442 Naval;
+\t 9494 Laundry Room \t 6721 Mocha Java \t 6442 Naval;
 
-Station <TAB> 9874 Olive Street <TAB> 9083 Prexy Lake Drive <TAB> 1132;
+Station \t 9874 Olive Street \t 9083 Prexy Lake Drive \t 1132;
 
-Quoted Price <TAB> 4543 Razor Blade <TAB> 2272 Stage Play <TAB> 5487 Trendy Place <TAB> 6723
+Quoted Price \t 4543 Razor Blade \t 2272 Stage Play \t 5487 Trendy Place \t 6723
 
-Underground Lane <TAB> 4438 Valor Avenue <TAB> 2243 Waxed;
+Underground Lane \t 4438 Valor Avenue \t 2243 Waxed;
 
-Eloquent <TAB> 2674 Xylophone Drive <TAB> 7612 Younts Villa <TAB> 1293 Zoo
+Eloquent \t 2674 Xylophone Drive \t 7612 Younts Villa \t 1293 Zoo
 
-logical Gardens <TAB> 1734 All Drive <TAB> 3907 Bored Street <TAB>
+logical Gardens \t 1734 All Drive \t 3907 Bored Street \t
